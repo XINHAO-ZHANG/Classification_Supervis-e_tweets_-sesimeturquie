@@ -2,7 +2,7 @@
 Dans le cadre du cours fouille de texte au semestre 2 (M1 TAL 2022-2023)
 
 
-Sujet : Classfication des microblogs hashtagués #SéismeTurque par l'intention des utilisateurs
+## Sujet : Classfication des microblogs hashtagués #SéismeTurque par l'intention des utilisateurs
 
 ### Explication pour les deux scripts ci-joints
 ---
