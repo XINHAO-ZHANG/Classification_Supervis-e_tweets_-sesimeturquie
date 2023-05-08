@@ -1,8 +1,10 @@
-# Fouille_de_Texte_S2
+# Classfication des microblogs hashtagués #SéismeTurque par l'intention des utilisateurs
 Dans le cadre du cours fouille de texte au semestre 2 (M1 TAL 2022-2023)
+> Yingzi LIU, Xinhao ZHANG
 
+## Approches d'apprentissage Appliquées:
+WEKA et Sklearn
 
-## Sujet : Classfication des microblogs hashtagués #SéismeTurque par l'intention des utilisateurs
 
 ### Explication pour les deux scripts ci-joints
 ---
