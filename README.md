@@ -1,4 +1,4 @@
-# Classfication des microblogs hashtagués #SéismeTurque par l'intention des utilisateurs
+# Classfication des microblogs hashtagués #SéismeTurquie par l'intention des utilisateurs
 Dans le cadre du cours fouille de texte au semestre 2 (M1 TAL 2022-2023)
 > Yingzi LIU, Xinhao ZHANG
 
